@@ -1,0 +1,7 @@
+package.json içindeki : dev
+
+cmd > npm run dev > hata verir paketler inmedi
+dolayısıyla bir js projesi gitten çekildiğinde yapılacak ilk iş > cmd : npm install
+ardından, cmd > npm run dev
+
+src > app.js > başlangıç scripti
